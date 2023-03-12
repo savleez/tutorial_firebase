@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "411835748903",
+    "project_id": "fir-turorial-7eba2",
+    "storage_bucket": "fir-turorial-7eba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411835748903:android:8af2b55ce018ce297af402",
+        "android_client_info": {
+          "package_name": "com.example.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411835748903-aa5j7bs2odkh7q804ih9cpngq3up2o36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADttr4s37dZqgEEJ7T5D5411tB-1EbXeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411835748903-aa5j7bs2odkh7q804ih9cpngq3up2o36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
